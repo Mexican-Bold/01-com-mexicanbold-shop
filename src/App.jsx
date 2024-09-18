@@ -15,7 +15,7 @@ function App() {
          Mexican Bold - Orgullosamente Chingón  
         </a>
 	  <p>
-          Estilo de Rock Stars para tí y para mí.
+          Estilo de rock star para tí y para mí.
         </p>
 
       </header>
